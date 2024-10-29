@@ -6,4 +6,3 @@ select id
      , created
      , _batched_at
 from raw.STRIPE.PAYMENT
-;

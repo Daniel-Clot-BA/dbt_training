@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="@ou42246.eu-west-2.aws.snowflakecomputing.com" uuid="497ab43c-6e4c-45e8-8adb-8e53e6ab2bf4">
+    <data-source source="LOCAL" name="@ou42246.eu-west-2.aws.snowflakecomputing.com" uuid="a524dce9-1059-47c9-9acd-56d65450835a">
       <driver-ref>snowflake</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.snowflake.client.jdbc.SnowflakeDriver</jdbc-driver>
-      <jdbc-url>jdbc:snowflake://ou42246.eu-west-2.aws.snowflakecomputing.com:443</jdbc-url>
+      <jdbc-url>jdbc:snowflake://ou42246.eu-west-2.aws.snowflakecomputing.com:443?warehouse=TRANSFORMING</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
